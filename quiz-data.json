@@ -1,0 +1,434 @@
+{
+“quizTitle”: “令和5年度 基礎総合試験Ⅰ”,
+“questions”: [
+{
+“id”: 1,
+“question”: “組み合わせで誤っているものはどれか。”,
+“options”: [
+“a. bedsore 褥瘡，床擦れ”,
+“b. collarbone 鎖骨”,
+“c. frostbite 胸焼け”,
+“d. radiotherapy 放射線療法”,
+“e. thighbone 大腿骨”
+],
+“correctAnswer”: 2,
+“explanation”: “frostbiteは「凍傷」を意味し、「胸焼け」はheartburnです。”
+},
+{
+“id”: 2,
+“question”: “組み合わせで誤っているものはどれか。”,
+“options”: [
+“a. airway obstruction 気道閉塞”,
+“b. bladder stone 腎臓結石”,
+“c. house call 往診”,
+“d. labor pains 陣痛”,
+“e. voice box 喉頭”
+],
+“correctAnswer”: 1,
+“explanation”: “bladder stoneは「膀胱結石」を意味し、「腎臓結石」はkidney stoneです。”
+},
+{
+“id”: 3,
+“question”: “組み合わせで誤っているものはどれか。”,
+“options”: [
+“a. amniocentesis 結腸穿刺術”,
+“b. degeneration 変性，退化”,
+“c. malformation 奇形，先天性異常”,
+“d. prostatomegaly 前立腺肥大”,
+“e. tonsillitis 扁桃炎”
+],
+“correctAnswer”: 0,
+“explanation”: “amniocentesisは「羊水穿刺」を意味します。”
+},
+{
+“id”: 4,
+“question”: “組み合わせで誤っているものはどれか。”,
+“options”: [
+“a. angioplasty 血管造影法”,
+“b. endometriosis 子宮内膜症”,
+“c. hemiplegia 片麻痺，半身不随”,
+“d. orthopedics 整形外科学”,
+“e. tracheotomy 気管切開術”
+],
+“correctAnswer”: 0,
+“explanation”: “angioplastyは「血管形成術」を意味し、「血管造影法」はangiographyです。”
+},
+{
+“id”: 5,
+“question”: “組み合わせで誤っているものはどれか。”,
+“options”: [
+“a. bradycardia 頻脈”,
+“b. hydrocephalus 水頭症”,
+“c. leukemia 白血病”,
+“d. malpractice 医療過誤，医療ミス”,
+“e. pericarditis 心膜炎”
+],
+“correctAnswer”: 0,
+“explanation”: “bradycardiaは「徐脈」を意味し、「頻脈」はtachycardiaです。”
+},
+{
+“id”: 6,
+“question”: “組み合わせで誤っているものはどれか。”,
+“options”: [
+“a. carcinogen 発癌性物質”,
+“b. erythrocyte 赤血球”,
+“c. melanoma 黒色腫”,
+“d. parotitis 腹膜炎”,
+“e. uremia 尿毒症”
+],
+“correctAnswer”: 3,
+“explanation”: “parotitisは「耳下腺炎」を意味し、「腹膜炎」はperitonitisです。”
+},
+{
+“id”: 7,
+“question”: “組み合わせで誤っているものはどれか。”,
+“options”: [
+“a. amnesia 健忘症，記憶喪失”,
+“b. apnea 無呼吸症”,
+“c. endoscopy 胃カメラ検査法”,
+“d. hemophilia 血友病”,
+“e. sitophobia 拒食症”
+],
+“correctAnswer”: 2,
+“explanation”: “endoscopyは「内視鏡検査法」を意味し、胃カメラ検査に限定されません。”
+},
+{
+“id”: 8,
+“question”: “組み合わせで誤っているものはどれか。”,
+“options”: [
+“a. electrocardiograph 心電図計”,
+“b. gynecology 婦人科学”,
+“c. hemopoiesis 造血”,
+“d. hyperlipidemia 高脂血症”,
+“e. scoliosis 結核”
+],
+“correctAnswer”: 4,
+“explanation”: “scoliosisは「脊柱側弯症」を意味し、「結核」はtuberculosisです。”
+},
+{
+“id”: 9,
+“question”: “英文中の（ア）～（ウ）に入る英語表現の組合せで正しいのはどれか。\nWomen diagnosed with［（ア）骨粗鬆症］are at as much as a 50% increased risk of developing［（イ）心血管の］［（ウ）合併症］．”,
+“options”: [
+“a. （ア）cirrhosis （イ）cardiovascular （ウ）progression”,
+“b. （ア）osteoporosis （イ）cardiovascular （ウ）complication”,
+“c. （ア）cirrhosis （イ）cardiopulmonary （ウ）complication”,
+“d. （ア）osteoporosis （イ）cardiopulmonary （ウ）complication”,
+“e. （ア）osteoporosis （イ）cardiovascular （ウ）progression”
+],
+“correctAnswer”: 1,
+“explanation”: “骨粗鬆症はosteoporosis、心血管のはcardiovascular、合併症はcomplicationです。”
+},
+{
+“id”: 10,
+“question”: “英文中の（ア）～（ウ）に入る英語表現の組合せで正しいのはどれか。\nSwallowing foreign bodies rarely cause［（ア）穿孔］，unless they become impacted, causing［（イ）虚血］and［（ウ）壊死］from local pressure.”,
+“options”: [
+“a. （ア）obstruction （イ）ischemia （ウ）necrosis”,
+“b. （ア）obstruction （イ）hyperemia （ウ）necropsy”,
+“c. （ア）perforation （イ）hyperemia （ウ）necrosis”,
+“d. （ア）perforation （イ）hyperemia （ウ）necropsy”,
+“e. （ア）perforation （イ）ischemia （ウ）necrosis”
+],
+“correctAnswer”: 4,
+“explanation”: “穿孔はperforation、虚血はischemia、壊死はnecrosisです。”
+},
+{
+“id”: 21,
+“question”: “胸骨圧迫について正しいのはどれか。２つ選べ。”,
+“options”: [
+“a. 地面に対して垂直に圧迫する。”,
+“b. ６cm以上胸壁が沈むよう圧迫する。”,
+“c. １分間に80回～100回のペースで圧迫する。”,
+“d. 胸骨よりやや左側で心臓よりの場所を圧迫する。”,
+“e. 圧迫を解除した時は胸壁が元の位置に戻るようにする。”
+],
+“correctAnswer”: [0, 4],
+“multipleChoice”: true,
+“explanation”: “正しい選択肢はaとeです。地面に対して垂直に圧迫し、圧迫解除時は胸壁が元の位置に戻るようにします。”
+},
+{
+“id”: 22,
+“question”: “一次救命処置中の人工呼吸について正しいのはどれか。２つ選べ。”,
+“options”: [
+“a. 気道確保して行う。”,
+“b. １回の呼吸で1000ml程度吹き込む。”,
+“c. 胸骨圧迫10回につき１回の割合で行う。”,
+“d. 胸骨圧迫より先に口対口人工呼吸を行う。”,
+“e. 成人では人工呼吸なしの胸骨圧迫のみの蘇生でも良い。”
+],
+“correctAnswer”: [0, 4],
+“multipleChoice”: true,
+“explanation”: “正しい選択肢はaとeです。気道確保して行い、成人では胸骨圧迫のみの蘇生も認められています。”
+},
+{
+“id”: 26,
+“question”: “内頭蓋底の模式図である。矢印を通るのはどれか。”,
+“options”: [
+“a. 視神経”,
+“b. 下顎神経”,
+“c. 顔面神経”,
+“d. 上顎神経”,
+“e. 動眼神経”
+],
+“correctAnswer”: null,
+“hasImage”: true,
+“imageRef”: “No.1”,
+“explanation”: “別冊No.1の図を参照してください。”
+},
+{
+“id”: 27,
+“question”: “左手の骨である。矢印はどれか。”,
+“options”: [
+“a. 月状骨”,
+“b. 三角骨”,
+“c. 豆状骨”,
+“d. 有鈎骨”,
+“e. 有頭骨”
+],
+“correctAnswer”: null,
+“hasImage”: true,
+“imageRef”: “No.2”,
+“explanation”: “別冊No.2の図を参照してください。”
+},
+{
+“id”: 28,
+“question”: “骨盤の分界線を構成するのはどれか。”,
+“options”: [
+“a. 岬角”,
+“b. 閉鎖孔”,
+“c. 坐骨結節”,
+“d. 恥骨下角”,
+“e. 大坐骨切痕”
+],
+“correctAnswer”: 0,
+“explanation”: “骨盤の分界線は岬角、弓状線、恥骨櫛、恥骨結合上縁によって構成されます。”
+},
+{
+“id”: 29,
+“question”: “脊柱と関節をつくるのはどれか。”,
+“options”: [
+“a. 寛骨”,
+“b. 胸骨”,
+“c. 鎖骨”,
+“d. 肩甲骨”,
+“e. 大腿骨”
+],
+“correctAnswer”: 0,
+“explanation”: “寛骨は仙腸関節で脊柱（仙骨）と関節をつくります。”
+},
+{
+“id”: 30,
+“question”: “肩関節で上腕を内旋する筋はどれか。”,
+“options”: [
+“a. 棘上筋”,
+“b. 棘下筋”,
+“c. 小胸筋”,
+“d. 前鋸筋”,
+“e. 肩甲下筋”
+],
+“correctAnswer”: 4,
+“explanation”: “肩甲下筋は肩関節で上腕を内旋させる作用があります。”
+},
+{
+“id”: 34,
+“question”: “右心房の内景の模式図を示す。心房中隔の矢印はどれか。”,
+“options”: [
+“a. 下大静脈弁”,
+“b. 冠状静脈弁”,
+“c. 三尖弁”,
+“d. 二尖弁”,
+“e. 卵円窩”
+],
+“correctAnswer”: null,
+“hasImage”: true,
+“imageRef”: “No.3”,
+“explanation”: “別冊No.3の図を参照してください。”
+},
+{
+“id”: 36,
+“question”: “上腹部の血管の模式図を示す。矢印はどれか。”,
+“options”: [
+“a. 固有肝動脈”,
+“b. 総肝動脈”,
+“c. 腹腔動脈”,
+“d. 左胃動脈”,
+“e. 右胃動脈”
+],
+“correctAnswer”: null,
+“hasImage”: true,
+“imageRef”: “No.4”,
+“explanation”: “別冊No.4の図を参照してください。”
+},
+{
+“id”: 38,
+“question”: “図の横線部の支配神経で正しいのはどれか。”,
+“options”: [
+“a. 知覚：三叉神経 ― 味覚：顔面神経”,
+“b. 知覚：三叉神経 ― 味覚：舌咽神経”,
+“c. 知覚：舌咽神経 ― 味覚：舌咽神経”,
+“d. 知覚：舌咽神経 ― 味覚：顔面神経”,
+“e. 知覚：三叉神経 ― 味覚：迷走神経”
+],
+“correctAnswer”: null,
+“hasImage”: true,
+“imageRef”: “No.5”,
+“explanation”: “別冊No.5の図を参照してください。”
+},
+{
+“id”: 39,
+“question”: “咽頭の収縮に関わるのはどれか。２つ選べ。”,
+“options”: [
+“a. 茎突咽頭筋”,
+“b. 口蓋咽頭筋”,
+“c. 耳管咽頭筋”,
+“d. 輪状咽頭筋”,
+“e. 中咽頭括約筋”
+],
+“correctAnswer”: [0, 4],
+“multipleChoice”: true,
+“explanation”: “咽頭の収縮には茎突咽頭筋と中咽頭括約筋が関わります。”
+},
+{
+“id”: 44,
+“question”: “アポトーシスで誤っているのはどれか。２つ選べ。”,
+“options”: [
+“a. 病的な細胞死である。”,
+“b. クロマチンが凝集する。”,
+“c. 周囲に炎症を誘導する。”,
+“d. ミトコンドリアが膨化する。”,
+“e. 膜に包まれた小体が形成される。”
+],
+“correctAnswer”: [0, 2],
+“multipleChoice”: true,
+“explanation”: “アポトーシスは生理的な細胞死であり、周囲に炎症を誘導しません。誤りはaとcです。”
+},
+{
+“id”: 45,
+“question”: “中間径フィラメントとの結合部位となる接着複合体はどれか。２つ選べ。”,
+“options”: [
+“a. タイト結合”,
+“b. ギャップ結合”,
+“c. デスモソーム”,
+“d. アドへレンス結合”,
+“e. ヘミデスモソーム”
+],
+“correctAnswer”: [2, 4],
+“multipleChoice”: true,
+“explanation”: “中間径フィラメントとの結合部位となるのはデスモソームとヘミデスモソームです。”
+},
+{
+“id”: 46,
+“question”: “図は軟骨の成長様式を示す。正しいのはどれか。２つ選べ。”,
+“options”: [
+“a. 軟骨膜直下で生じる。”,
+“b. 軟骨内骨化に関与する。”,
+“c. 付加成長の様式である。”,
+“d. 軟骨芽細胞の分化を伴う。”,
+“e. 同母細胞性の細胞増殖によって生じる。”
+],
+“correctAnswer”: null,
+“hasImage”: true,
+“imageRef”: “No.6”,
+“multipleChoice”: true,
+“explanation”: “別冊No.6の図を参照してください。”
+},
+{
+“id”: 47,
+“question”: “赤筋線維の特徴でないのはどれか。２つ選べ。”,
+“options”: [
+“a. 収縮速度が速い。”,
+“b. 毛細血管が多い。”,
+“c. 筋線維の直径が大きい。”,
+“d. ミオグロビン量が多い。”,
+“e. ミトコンドリアが多い。”
+],
+“correctAnswer”: [0, 2],
+“multipleChoice”: true,
+“explanation”: “赤筋線維は収縮速度が遅く、筋線維の直径が小さいのが特徴です。誤りはaとcです。”
+},
+{
+“id”: 48,
+“question”: “写真は神経細胞の一部である。矢印の構造で正しいのはどれか。”,
+“options”: [
+“a. 消耗性色素である。”,
+“b. 神経伝達物質の受容体がある。”,
+“c. 基部となる細胞体に軸索小丘がある。”,
+“d. H-E染色では神経角質材として観察される。”,
+“e. 塩基性アニリン色素で青い斑点として観察される。”
+],
+“correctAnswer”: null,
+“hasImage”: true,
+“imageRef”: “No.7”,
+“explanation”: “別冊No.7の図を参照してください。”
+},
+{
+“id”: 55,
+“question”: “グルコース-アラニン回路の主要な生理的意義を２つ選べ。”,
+“options”: [
+“a. 乳酸の再利用”,
+“b. 中性脂肪の貯蔵”,
+“c. 糖新生の基質の産生”,
+“d. アンモニアの肝臓への輸送”,
+“e. クエン酸回路の中間代謝物の補充”
+],
+“correctAnswer”: [2, 3],
+“multipleChoice”: true,
+“explanation”: “グルコース-アラニン回路の主要な意義は、糖新生の基質の産生とアンモニアの肝臓への輸送です。”
+},
+{
+“id”: 60,
+“question”: “アスパラギン酸とα-ケトグルタル酸のアミノ基転移反応で生じる分子を２つ選べ。”,
+“options”: [
+“a. コハク酸”,
+“b. アラニン”,
+“c. ピルビン酸”,
+“d. オキサロ酢酸”,
+“e. グルタミン酸”
+],
+“correctAnswer”: [3, 4],
+“multipleChoice”: true,
+“explanation”: “アスパラギン酸とα-ケトグルタル酸のアミノ基転移反応では、オキサロ酢酸とグルタミン酸が生じます。”
+},
+{
+“id”: 65,
+“question”: “カテコールアミンでないものを２つ選べ。”,
+“options”: [
+“a. セロトニン”,
+“b. ドーパミン”,
+“c. アドレナリン”,
+“d. ノルアドレナリン”,
+“e. γ-アミノ酪酸（GABA）”
+],
+“correctAnswer”: [0, 4],
+“multipleChoice”: true,
+“explanation”: “カテコールアミンはドーパミン、アドレナリン、ノルアドレナリンです。セロトニンとGABAはカテコールアミンではありません。”
+},
+{
+“id”: 66,
+“question”: “フェニルアラニン分解経路の異常が原因のアミノ酸代謝異常症を２つ選べ。”,
+“options”: [
+“a. イソ吉草酸血症”,
+“b. 高アルギニン血症”,
+“c. アルカプトン尿症”,
+“d. ホモシスチン尿症”,
+“e. フェニルケトン尿症”
+],
+“correctAnswer”: [2, 4],
+“multipleChoice”: true,
+“explanation”: “フェニルアラニン分解経路の異常による疾患は、アルカプトン尿症とフェニルケトン尿症です。”
+},
+{
+“id”: 79,
+“question”: “電離放射線照射によって最もよく生じるDNA損傷の修復機構を２つ選べ。”,
+“options”: [
+“a. ヌクレオチド除去修復”,
+“b. クラススイッチ組換え”,
+“c. 非相同末端連結”,
+“d. 相同組換え修復”,
+“e. 塩基除去修復”
+],
+“correctAnswer”: [2, 3],
+“multipleChoice”: true,
+“explanation”: “電離放射線によるDNA二本鎖切断の修復には、非相同末端連結と相同組換え修復が主に用いられます。”
+}
+]
+}
