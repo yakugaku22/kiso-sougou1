@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>令和5年度 基礎総合試験Ⅰ クイズアプリ</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1 id="quiz-title">医学試験クイズ</h1>
+            <div class="progress-bar">
+                <div class="progress-fill" id="progress-fill"></div>
+            </div>
+            <p class="progress-text">
+                問題 <span id="current-question">1</span> / <span id="total-questions">100</span>
+            </p>
+        </header>
+
+```
+    <main id="main-content">
+        <!-- スタート画面 -->
+        <div id="start-screen" class="screen active">
+            <h2>医学試験クイズへようこそ</h2>
+            <p>令和5年度 基礎総合試験Ⅰの問題に挑戦しましょう。</p>
+            <div class="stats">
+                <p>総問題数: <span id="total-q">100</span>問</p>
+            </div>
+            <button id="start-btn" class="btn btn-primary">クイズを開始</button>
+        </div>
+
+        <!-- クイズ画面 -->
+        <div id="quiz-screen" class="screen">
+            <!-- 問題番号ナビゲーション -->
+            <div class="question-navigation">
+                <button id="question-list-toggle" class="btn btn-nav">問題一覧</button>
+                <button id="quit-btn" class="btn btn-danger">中断</button>
+            </div>
+            
+            <!-- 問題番号グリッド（折りたたみ可能） -->
+            <div id="question-grid" class="question-grid" style="display: none;">
+                <p class="grid-title">問題を選択してジャンプ</p>
+                <div id="question-numbers" class="question-numbers"></div>
+            </div>
+            
+            <div class="question-card">
+                <h2 class="question-number">問題 <span id="q-number">1</span></h2>
+                
+                <!-- 図表示エリア -->
+                <div id="image-container" class="image-container" style="display: none;">
+                    <img id="question-image" src="" alt="問題の図">
+                    <p class="image-ref">参照: <span id="image-ref-text"></span></p>
+                </div>
+                
+                <p class="question-text" id="question-text"></p>
+                
+                <div id="options-container" class="options-container"></div>
+                
+                <div class="button-group">
+                    <button id="prev-btn" class="btn btn-secondary" disabled>前の問題</button>
+                    <button id="submit-btn" class="btn btn-primary" disabled>解答を確認</button>
+                    <button id="next-btn" class="btn btn-primary" style="display: none;">次の問題</button>
+                </div>
+                
+                <!-- 解説エリア -->
+                <div id="explanation-area" class="explanation-area" style="display: none;">
+                    <div class="result-badge" id="result-badge"></div>
+                    <div class="explanation-text" id="explanation-text"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 結果画面 -->
+        <div id="result-screen" class="screen">
+            <h2>クイズ終了！</h2>
+            <div class="result-summary">
+                <div class="score-circle">
+                    <span class="score-number" id="final-score">0</span>
+                    <span class="score-total">/ <span id="final-total">100</span></span>
+                </div>
+                <p class="score-percentage" id="score-percentage">0%</p>
+                <p class="score-message" id="score-message">お疲れ様でした！</p>
+            </div>
+            
+            <div class="result-details">
+                <div class="detail-item">
+                    <span class="detail-label">正解数:</span>
+                    <span class="detail-value correct" id="correct-count">0</span>
+                </div>
+                <div class="detail-item">
+                    <span class="detail-label">不正解数:</span>
+                    <span class="detail-value incorrect" id="incorrect-count">0</span>
+                </div>
+                <div class="detail-item">
+                    <span class="detail-label">未回答:</span>
+                    <span class="detail-value unanswered" id="unanswered-count">0</span>
+                </div>
+            </div>
+            
+            <!-- 詳細な結果リスト -->
+            <div class="result-list-container">
+                <h3>問題別結果</h3>
+                <div id="result-list" class="result-list"></div>
+            </div>
+            
+            <div class="button-group">
+                <button id="review-btn" class="btn btn-secondary">解答を見直す</button>
+                <button id="restart-btn" class="btn btn-primary">もう一度挑戦</button>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 医学試験クイズアプリ</p>
+    </footer>
+</div>
+
+<script src="app.js"></script>
+```
+
+</body>
+</html>
